@@ -13,3 +13,5 @@ Each film has a folder with 4 files:
 	- screenplay in the form of JSON (a format to make data readable in code). Some lines have been tagged with timestamps.
 - subs.json
 	- subtitle in JSON format with timestamps
+
+Films are either to be released, released but still needs contributions, and released and has enough accuracy to not require any more contributions. It's still TBD when a film can be categorized as having "enough accuracy"
