@@ -75,11 +75,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "FADE IN:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 324
-                            }
+                            "text": "FADE IN:"
                         }
                     }
                 ]
@@ -1426,11 +1422,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 199
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -1460,11 +1452,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 279
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -1500,11 +1488,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 438
-                            }
+                            "text": "CUT TO:"
                         }
                     },
                     {
@@ -1542,11 +1526,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 574
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -1652,11 +1632,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 358
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -1763,11 +1739,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 143
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -1807,11 +1779,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 279
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -1857,11 +1825,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 449
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -1940,11 +1904,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 154
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -1996,11 +1956,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 357
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -2049,11 +2005,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 605
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -2128,11 +2080,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 232
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -2165,11 +2113,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 368
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ]
@@ -2256,11 +2200,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 717
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ]
@@ -2630,11 +2570,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 540
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -2757,11 +2693,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 404
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -2791,11 +2723,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 484
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -2963,11 +2891,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 393
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -3013,11 +2937,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 608
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -3060,11 +2980,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 711
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -3102,11 +3018,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 167
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -3141,11 +3053,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 270
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -3188,11 +3096,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 373
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -3235,11 +3139,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 476
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -3272,11 +3172,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 579
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -3309,11 +3205,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 682
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -3348,11 +3240,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 144
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -3382,11 +3270,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 213
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -3518,11 +3402,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 722
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -3683,11 +3563,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 485
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -3883,11 +3759,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 392
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -4045,11 +3917,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 234
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -4355,11 +4223,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 200
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -4504,11 +4368,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 121
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -4764,11 +4624,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 448
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -4829,11 +4685,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 707
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -5063,11 +4915,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 345
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -5249,11 +5097,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 245
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -5434,11 +5278,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 256
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -5706,11 +5546,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 526
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -6391,11 +6227,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 257
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -6451,11 +6283,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 405
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -6511,11 +6339,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 542
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -6559,11 +6383,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 667
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -6608,11 +6428,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 189
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -6686,11 +6502,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 415
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -6791,11 +6603,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 721
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -7111,11 +6919,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 143
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -7224,11 +7028,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 604
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -7263,11 +7063,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 684
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -7329,11 +7125,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 245
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -7370,11 +7162,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 479
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -7409,11 +7197,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 570
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -7461,11 +7245,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 684
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -7503,11 +7283,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 177
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -7569,11 +7345,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 359
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -7608,11 +7380,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 450
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -7757,11 +7525,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 312
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -7813,11 +7577,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 460
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -8038,11 +7798,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 110
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -8072,11 +7828,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 201
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -8112,11 +7864,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 358
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -8146,11 +7894,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 471
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -8193,11 +7937,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 629
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -8252,11 +7992,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 143
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -8286,11 +8022,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 245
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -8325,11 +8057,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 369
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -8388,11 +8116,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 572
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -8422,11 +8146,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 663
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -8594,11 +8314,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 527
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -8642,11 +8358,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 696
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -8691,11 +8403,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 200
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -8731,11 +8439,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 313
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -8779,11 +8483,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 438
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -8954,11 +8654,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 415
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -8993,11 +8689,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 539
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -9047,11 +8739,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 710
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -9104,11 +8792,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 189
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -9153,11 +8837,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 369
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -9385,11 +9065,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 527
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -9550,11 +9226,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 469
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -10253,11 +9925,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 392
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -10517,11 +10185,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 110
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -10551,11 +10215,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 190
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -10666,11 +10326,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 597
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -11379,11 +11035,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 414
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -11721,11 +11373,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 278
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -11809,11 +11457,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 572
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -11920,11 +11564,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 278
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -12246,11 +11886,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 211
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -12523,11 +12159,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 570
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -13217,11 +12849,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 502
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -13257,11 +12885,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 626
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -13302,11 +12926,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 188
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -13637,11 +13257,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 200
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -13690,11 +13306,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 336
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -13792,11 +13404,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 132
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -14301,11 +13909,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 167
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -14515,11 +14119,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 381
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -14767,11 +14367,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 572
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -15083,11 +14679,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 479
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -16048,11 +15640,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 661
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -17061,11 +16649,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 706
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -17113,11 +16697,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 189
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -17324,11 +16904,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 189
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -17371,11 +16947,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "EXECUTIVE",
-                            "metadata": {
-                                "x": 239,
-                                "y": 380
-                            }
+                            "text": "EXECUTIVE"
                         }
                     },
                     {
@@ -17402,11 +16974,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "EXECUTIVE",
-                            "metadata": {
-                                "x": 239,
-                                "y": 492
-                            }
+                            "text": "EXECUTIVE"
                         }
                     },
                     {
@@ -17420,11 +16988,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 537
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -17507,11 +17071,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 121
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -17766,11 +17326,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 268
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -17827,11 +17383,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 438
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -18128,11 +17680,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 121
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -18185,11 +17733,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 302
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -18327,11 +17871,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 188
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -18405,11 +17945,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 370
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -18457,11 +17993,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 616
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -18492,11 +18024,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 696
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -18874,11 +18402,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 121
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -18915,11 +18439,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 223
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -19059,11 +18579,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 132
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -19098,11 +18614,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 212
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -19307,11 +18819,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 166
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -19546,11 +19054,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 415
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -19609,11 +19113,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 619
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -19653,11 +19153,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 177
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -19692,11 +19188,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 301
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -19744,11 +19236,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 437
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -19819,11 +19307,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 674
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -19868,11 +19352,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 178
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -19932,11 +19412,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 459
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -20084,11 +19560,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 367
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -20222,11 +19694,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 132
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -20666,11 +20134,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 425
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -21040,11 +20504,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 675
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -21196,11 +20656,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 673
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -21620,11 +21076,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 313
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -21843,11 +21295,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 325
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -22481,11 +21929,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 346
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -22588,11 +22032,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 482
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -23434,11 +22874,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 436
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -23468,11 +22904,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 538
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -24495,11 +23927,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 257
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -24574,11 +24002,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 517
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -24818,11 +24242,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 640
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -25838,11 +25258,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 382
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -26047,11 +25463,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 527
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -26213,11 +25625,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 578
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -26327,11 +25735,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 279
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -26400,11 +25804,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 649
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -26460,11 +25860,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 289
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -26564,11 +25960,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 650
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -26625,11 +26017,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT BACK TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 121
-                            }
+                            "text": "CUT BACK TO:"
                         }
                     }
                 ],
@@ -26962,11 +26350,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 607
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -27108,11 +26492,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 414
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -27776,11 +27156,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 325
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -27834,11 +27210,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 473
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -28473,11 +27845,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 121
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ],
@@ -28788,11 +28156,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 95,
-                                "y": 662
-                            }
+                            "text": "CUT TO:"
                         }
                     }
                 ]

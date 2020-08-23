@@ -260,11 +260,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "SMASH CUT:",
-                            "metadata": {
-                                "x": 441,
-                                "y": 468
-                            }
+                            "text": "SMASH CUT:"
                         }
                     },
                     {
@@ -22292,11 +22288,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "SMASH TO:",
-                            "metadata": {
-                                "x": 448,
-                                "y": 720
-                            }
+                            "text": "SMASH TO:"
                         }
                     }
                 ]
@@ -22513,11 +22505,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "BLACK.",
-                            "metadata": {
-                                "x": 469,
-                                "y": 240
-                            }
+                            "text": "BLACK."
                         }
                     }
                 ]

@@ -9,11 +9,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "FADE IN:",
-                            "metadata": {
-                                "x": 90,
-                                "y": 81
-                            }
+                            "text": "FADE IN:"
                         },
                         "timestamp": [
                             25,
@@ -788,11 +784,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "FADE TO:",
-                            "metadata": {
-                                "x": 427,
-                                "y": 693
-                            }
+                            "text": "FADE TO:"
                         },
                         "timestamp": [
                             292.5,
@@ -1846,11 +1838,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 427,
-                                "y": 477
-                            }
+                            "text": "CUT TO:"
                         },
                         "timestamp": [
                             618.5,
@@ -3398,11 +3386,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 427,
-                                "y": 477
-                            }
+                            "text": "CUT TO:"
                         },
                         "timestamp": [
                             2638.0,
@@ -4170,11 +4154,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 427,
-                                "y": 201
-                            }
+                            "text": "CUT TO:"
                         },
                         "timestamp": [
                             2822.0,
@@ -4361,11 +4341,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 427,
-                                "y": 261
-                            }
+                            "text": "CUT TO:"
                         }
                     },
                     {
@@ -7047,11 +7023,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 427,
-                                "y": 141
-                            }
+                            "text": "CUT TO:"
                         },
                         "timestamp": [
                             3569.0,
@@ -12146,11 +12118,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 427,
-                                "y": 237
-                            }
+                            "text": "CUT TO:"
                         },
                         "timestamp": [
                             2886.0,
@@ -12784,11 +12752,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 427,
-                                "y": 417
-                            }
+                            "text": "CUT TO:"
                         },
                         "timestamp": [
                             3068.0,
@@ -14279,11 +14243,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 427,
-                                "y": 237
-                            }
+                            "text": "CUT TO:"
                         },
                         "timestamp": [
                             3520.0,
@@ -15088,11 +15048,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "TIME CUT TO:",
-                            "metadata": {
-                                "x": 427,
-                                "y": 501
-                            }
+                            "text": "TIME CUT TO:"
                         },
                         "timestamp": [
                             3727.0,
@@ -18210,11 +18166,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "TIME CUT TO:",
-                            "metadata": {
-                                "x": 427,
-                                "y": 597
-                            }
+                            "text": "TIME CUT TO:"
                         },
                         "timestamp": [
                             4523.0,
@@ -23225,11 +23177,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "FADE TO:",
-                            "metadata": {
-                                "x": 427,
-                                "y": 189
-                            }
+                            "text": "FADE TO:"
                         },
                         "timestamp": [
                             5455.0,
@@ -25465,11 +25413,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 427,
-                                "y": 225
-                            }
+                            "text": "CUT TO:"
                         },
                         "timestamp": [
                             5811.0,
@@ -26099,11 +26043,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "FADE OUT",
-                            "metadata": {
-                                "x": 90,
-                                "y": 465
-                            }
+                            "text": "FADE OUT"
                         },
                         "timestamp": [
                             5954.5,
@@ -26140,11 +26080,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 427,
-                                "y": 693
-                            }
+                            "text": "CUT TO:"
                         },
                         "timestamp": [
                             5955.5,
@@ -31982,11 +31918,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 427,
-                                "y": 297
-                            }
+                            "text": "CUT TO:"
                         },
                         "timestamp": [
                             8074.0,
@@ -33334,11 +33266,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 427,
-                                "y": 129
-                            }
+                            "text": "CUT TO:"
                         },
                         "timestamp": [
                             9197.0,
@@ -38823,11 +38751,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 427,
-                                "y": 513
-                            }
+                            "text": "CUT TO:"
                         }
                     },
                     {
@@ -38917,11 +38841,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "FADE OUT",
-                            "metadata": {
-                                "x": 90,
-                                "y": 585
-                            }
+                            "text": "FADE OUT"
                         }
                     }
                 ]

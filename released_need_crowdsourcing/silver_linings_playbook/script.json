@@ -36,11 +36,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "FADE IN ON:",
-                            "metadata": {
-                                "x": 108,
-                                "y": 275
-                            }
+                            "text": "FADE IN ON:"
                         }
                     }
                 ]
@@ -1075,11 +1071,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "DISSOLVE TO:",
-                            "metadata": {
-                                "x": 429,
-                                "y": 161
-                            }
+                            "text": "DISSOLVE TO:"
                         }
                     }
                 ],
@@ -1101,11 +1093,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "THE EMPTY REAR PASSENGER SEAT: DANNY GONE. PAN TO: PAT, IN",
-                            "metadata": {
-                                "x": 108,
-                                "y": 207
-                            }
+                            "text": "THE EMPTY REAR PASSENGER SEAT: DANNY GONE. PAN TO: PAT, IN"
                         }
                     },
                     {
@@ -2395,11 +2383,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 464,
-                                "y": 427
-                            }
+                            "text": "CUT TO:"
                         }
                     },
                     {
@@ -2781,11 +2765,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "SONG FADES IN: ‘CHERIE AMOUR’ BY STEVIE WONDER.",
-                            "metadata": {
-                                "x": 108,
-                                "y": 650
-                            }
+                            "text": "SONG FADES IN: ‘CHERIE AMOUR’ BY STEVIE WONDER."
                         }
                     },
                     {
@@ -10549,11 +10529,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "FADE TO BLACK.",
-                            "metadata": {
-                                "x": 415,
-                                "y": 162
-                            }
+                            "text": "FADE TO BLACK."
                         }
                     }
                 ],
@@ -15496,11 +15472,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "TIFFANY TURNS AND WALKS. PRELAP OF EAGLES GAME FADES IN.",
-                            "metadata": {
-                                "x": 108,
-                                "y": 696
-                            }
+                            "text": "TIFFANY TURNS AND WALKS. PRELAP OF EAGLES GAME FADES IN."
                         }
                     }
                 ]
@@ -17504,11 +17476,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "LISTEN. CUT TO:",
-                            "metadata": {
-                                "x": 108,
-                                "y": 699
-                            }
+                            "text": "LISTEN. CUT TO:"
                         }
                     }
                 ]
@@ -18728,11 +18696,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "PAT BEGINS JUMPING WITH TIFFANY. CUT TO: DANNY WITH TIFFANY",
-                            "metadata": {
-                                "x": 108,
-                                "y": 434
-                            }
+                            "text": "PAT BEGINS JUMPING WITH TIFFANY. CUT TO: DANNY WITH TIFFANY"
                         }
                     },
                     {
@@ -19683,11 +19647,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "STAIRCASE AGAIN. CUT TO:",
-                            "metadata": {
-                                "x": 108,
-                                "y": 667
-                            }
+                            "text": "STAIRCASE AGAIN. CUT TO:"
                         }
                     },
                     {
@@ -23407,11 +23367,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "DISSOLVE TO:",
-                            "metadata": {
-                                "x": 429,
-                                "y": 254
-                            }
+                            "text": "DISSOLVE TO:"
                         }
                     }
                 ],

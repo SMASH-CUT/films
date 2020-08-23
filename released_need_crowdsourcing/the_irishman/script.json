@@ -7009,11 +7009,7 @@
                     {
                         "type": "TRANSITION",
                         "content": {
-                            "text": "CUT TO:",
-                            "metadata": {
-                                "x": 482,
-                                "y": 576
-                            }
+                            "text": "CUT TO:"
                         }
                     },
                     {
