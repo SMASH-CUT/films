@@ -4,7 +4,7 @@ link: https://drive.google.com/file/d/1_zrfqs7XwVPX64Z8h3qIveZdaJ9R4mFS/view
 
 syncedScenes: 97  
 scenes: 161  
-accuracy: 0.60 of scenes are synced  
+accuracy: 60% of scenes are synced  
 
 scenes omitted from film or to be synced:  
 - [ ] 1  
