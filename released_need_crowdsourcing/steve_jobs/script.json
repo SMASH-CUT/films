@@ -25762,7 +25762,7 @@
                         "type": "CHARACTER",
                         "content": {
                             "character": "PC.",
-                            "dialogue": []
+                            "dialogue": [ ]
                         }
                     }
                 ]
