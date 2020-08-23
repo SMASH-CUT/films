@@ -7,7 +7,7 @@ scenes: 102
 accuracy: 0.98% of scenes are synced  
 
 scenes omitted from film or to be synced:  
-[ ] 1  
-[ ] 98  
-[ ] 100  
-[ ] 102  
+- [ ] 1  
+- [ ] 98  
+- [ ] 100  
+- [ ] 102  

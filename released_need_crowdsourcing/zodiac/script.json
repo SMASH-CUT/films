@@ -4326,7 +4326,7 @@
                         "type": "CHARACTER",
                         "content": {
                             "character": "O",
-                            "dialogue": [ ]
+                            "dialogue": - [ ]
                         }
                     },
                     {
