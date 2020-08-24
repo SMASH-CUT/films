@@ -1,9 +1,9 @@
-notes: Shooting Script
-writers: 	Greta Gerwig
-link: https://drive.google.com/file/d/1buB9qU3CTNVZJAQ5GxdQ8g9Kwln4vzjc/view
+notes: Shooting Script  
+writers: 	Greta Gerwig  
+link: https://drive.google.com/file/d/1buB9qU3CTNVZJAQ5GxdQ8g9Kwln4vzjc/view  
 
 syncedScenes: 80  
-scenes: 122
+scenes: 122  
 accuracy: 65.6% of scenes are synced  
 
 scenes omitted from film or to be synced:  
